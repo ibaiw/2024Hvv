@@ -1,0 +1,4 @@
+```
+/portal/conf/config.properties
+```
+

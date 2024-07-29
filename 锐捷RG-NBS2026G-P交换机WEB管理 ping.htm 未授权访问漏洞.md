@@ -1,0 +1,4 @@
+```
+/safety/ping.htm
+```
+
